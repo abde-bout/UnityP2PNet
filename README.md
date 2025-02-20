@@ -30,7 +30,7 @@ git clone https://github.com/abde-bout/UnityP2PNet.git
 #### Usage Example
 Checkout the .cs file "SyncTransform" to understand how a NetMonoBehaviour can sync to other players.
 
-##Dependencies
+## Dependencies
 - HostileGrounds library
 - P2PNet library
 
