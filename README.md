@@ -31,8 +31,8 @@ git clone https://github.com/abde-bout/UnityP2PNet.git
 Checkout the .cs file "SyncTransform" to understand how a NetMonoBehaviour can sync to other players.
 
 ##Dependencies
-HostileGrounds library
-P2PNet library
+- HostileGrounds library
+- P2PNet library
 
 ## License
 This project is licensed under the MIT License.
