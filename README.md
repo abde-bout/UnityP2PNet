@@ -27,22 +27,12 @@ Clone the repository:
 git clone https://github.com/abde-bout/UnityP2PNet.git
 ```
 
-Include the `P2PNet` namespace in your project:
-```csharp
-using P2PNet;
-```
-
-### Usage
-
-#### Hosting a Server
-```csharp
-P2PService p2pService = new P2PService();
-p2pService.HostServer("MyServer", 10);
-string inviteCode = p2pService.GetServerCode();
-```
-
 #### Usage Example
 Checkout the .cs file "SyncTransform" to understand how a NetMonoBehaviour can sync to other players.
+
+##Dependencies
+HostileGrounds library
+P2PNet library
 
 ## License
 This project is licensed under the MIT License.
