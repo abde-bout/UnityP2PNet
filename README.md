@@ -4,11 +4,11 @@
 This project provides a networking solution for Unity applications, specifically focused on peer-to-peer (P2P) communication using TCP and UDP protocols. It includes functionality for networked game object instantiation, synchronization, method broadcasting, and handling network failures.
 
 ## Features
--Network Object Management: Supports instantiating, destroying, and managing networked game objects across all clients.
--Method Broadcasting: Allows broadcasting methods across clients using custom payloads.
--Client Management: Identifies and manages clients in a peer-to-peer network.
--Protocol Support: Supports both TCP and UDP for different types of network communication.
--Custom Serialization: Custom serialization and deserialization of network data, ensuring compatibility across different game objects.
+- Network Object Management: Supports instantiating, destroying, and managing networked game objects across all clients.
+- Method Broadcasting: Allows broadcasting methods across clients using custom payloads.
+- Client Management: Identifies and manages clients in a peer-to-peer network.
+- Protocol Support: Supports both TCP and UDP for different types of network communication.
+- Custom Serialization: Custom serialization and deserialization of network data, ensuring compatibility across different game objects.
 
 ## Getting Started
 
